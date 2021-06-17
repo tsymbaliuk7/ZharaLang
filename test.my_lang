@@ -1,0 +1,5 @@
+entry {
+    boolean a;
+    a = (!true || false) && (3 >= 1);
+
+}
